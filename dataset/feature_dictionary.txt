@@ -1,0 +1,82 @@
+CIC-IDS2017 FEATURE DICTIONARY
+Each row represents a network flow.
+
+Destination Port: Numerical network-flow feature
+Flow Duration: Numerical network-flow feature
+Total Fwd Packets: Numerical network-flow feature
+Total Backward Packets: Numerical network-flow feature
+Total Length of Fwd Packets: Numerical network-flow feature
+Total Length of Bwd Packets: Numerical network-flow feature
+Fwd Packet Length Max: Numerical network-flow feature
+Fwd Packet Length Min: Numerical network-flow feature
+Fwd Packet Length Mean: Numerical network-flow feature
+Fwd Packet Length Std: Numerical network-flow feature
+Bwd Packet Length Max: Numerical network-flow feature
+Bwd Packet Length Min: Numerical network-flow feature
+Bwd Packet Length Mean: Numerical network-flow feature
+Bwd Packet Length Std: Numerical network-flow feature
+Flow Bytes/s: Numerical network-flow feature
+Flow Packets/s: Numerical network-flow feature
+Flow IAT Mean: Numerical network-flow feature
+Flow IAT Std: Numerical network-flow feature
+Flow IAT Max: Numerical network-flow feature
+Flow IAT Min: Numerical network-flow feature
+Fwd IAT Total: Numerical network-flow feature
+Fwd IAT Mean: Numerical network-flow feature
+Fwd IAT Std: Numerical network-flow feature
+Fwd IAT Max: Numerical network-flow feature
+Fwd IAT Min: Numerical network-flow feature
+Bwd IAT Total: Numerical network-flow feature
+Bwd IAT Mean: Numerical network-flow feature
+Bwd IAT Std: Numerical network-flow feature
+Bwd IAT Max: Numerical network-flow feature
+Bwd IAT Min: Numerical network-flow feature
+Fwd PSH Flags: Numerical network-flow feature
+Bwd PSH Flags: Numerical network-flow feature
+Fwd URG Flags: Numerical network-flow feature
+Bwd URG Flags: Numerical network-flow feature
+Fwd Header Length: Numerical network-flow feature
+Bwd Header Length: Numerical network-flow feature
+Fwd Packets/s: Numerical network-flow feature
+Bwd Packets/s: Numerical network-flow feature
+Min Packet Length: Numerical network-flow feature
+Max Packet Length: Numerical network-flow feature
+Packet Length Mean: Numerical network-flow feature
+Packet Length Std: Numerical network-flow feature
+Packet Length Variance: Numerical network-flow feature
+FIN Flag Count: Numerical network-flow feature
+SYN Flag Count: Numerical network-flow feature
+RST Flag Count: Numerical network-flow feature
+PSH Flag Count: Numerical network-flow feature
+ACK Flag Count: Numerical network-flow feature
+URG Flag Count: Numerical network-flow feature
+CWE Flag Count: Numerical network-flow feature
+ECE Flag Count: Numerical network-flow feature
+Down/Up Ratio: Numerical network-flow feature
+Average Packet Size: Numerical network-flow feature
+Avg Fwd Segment Size: Numerical network-flow feature
+Avg Bwd Segment Size: Numerical network-flow feature
+Fwd Header Length.1: Numerical network-flow feature
+Fwd Avg Bytes/Bulk: Numerical network-flow feature
+Fwd Avg Packets/Bulk: Numerical network-flow feature
+Fwd Avg Bulk Rate: Numerical network-flow feature
+Bwd Avg Bytes/Bulk: Numerical network-flow feature
+Bwd Avg Packets/Bulk: Numerical network-flow feature
+Bwd Avg Bulk Rate: Numerical network-flow feature
+Subflow Fwd Packets: Numerical network-flow feature
+Subflow Fwd Bytes: Numerical network-flow feature
+Subflow Bwd Packets: Numerical network-flow feature
+Subflow Bwd Bytes: Numerical network-flow feature
+Init_Win_bytes_forward: Numerical network-flow feature
+Init_Win_bytes_backward: Numerical network-flow feature
+act_data_pkt_fwd: Numerical network-flow feature
+min_seg_size_forward: Numerical network-flow feature
+Active Mean: Numerical network-flow feature
+Active Std: Numerical network-flow feature
+Active Max: Numerical network-flow feature
+Active Min: Numerical network-flow feature
+Idle Mean: Numerical network-flow feature
+Idle Std: Numerical network-flow feature
+Idle Max: Numerical network-flow feature
+Idle Min: Numerical network-flow feature
+label: Target classification category

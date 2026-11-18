@@ -1,0 +1,7 @@
+{
+    "dos": 20000,
+    "port_scan": 20000,
+    "normal": 20000,
+    "brute_force": 10000,
+    "web_attack": 2180
+}
